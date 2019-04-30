@@ -1,6 +1,6 @@
 ﻿<#
 	© 2018  		: BitPool 
-	Script			: Ping Multiple servers provided in Text file IPList.txt
+	Script			: Ping Multiple Servers Provided In Text File IPList.txt
 	Pre-requisite 	: Create a Text File IPList.txt
 #>
 $IPNodes = Get-Content "C:\temp\IPList.txt"
